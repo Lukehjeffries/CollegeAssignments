@@ -1,0 +1,61 @@
+text,label_hours
+Write the paper,15.0
+Write deploy,17.2
+Write bib,18.1
+Write deploy,17.1
+Fix the data,20.8
+Create the docs,14.3
+Prepare bib,13.6
+Prepare the data,20.5
+Test the bib,18.6
+Test report,13.1
+Create script,22.0
+Fix the script,14.4
+Prepare the pipeline,19.2
+Create deploy,17.6
+Prepare deploy,21.7
+Write pipeline,9.4
+Write the pipeline,10.9
+Fix tests,7.8
+Test the deploy,9.6
+Test the docs,13.0
+Create the deploy,11.5
+Write slides,10.6
+Fix the docs,8.5
+Test paper,11.5
+Prepare the bib,7.9
+Write script,12.5
+Prepare deploy,9.2
+Create deploy,8.9
+Write the bib,8.4
+Create data,11.4
+Write deploy,3.3
+Test the slides,3.7
+Fix pipeline,2.8
+Prepare the tests,2.5
+Write report,3.1
+Test pipeline,3.4
+Write pipeline,3.6
+Write deploy,3.3
+Create deploy,3.1
+Create the tests,2.3
+Fix the report,2.9
+Write bib,3.4
+Write pipeline,3.1
+Create docs,2.9
+Write tests,3.3
+Debug intermittent test failure,2.5
+Implement new feature for user signup,6
+Write integration tests for payments,5
+Conduct exploratory data analysis on sales data,8
+Run hyperparameter search and log results,12
+Clean and label 1000 data samples,10
+Prepare slides for weekly demo,2
+Rehearse the product demo presentation,1.5
+Deploy service to staging and validate,3
+Prepare release notes and changelog,1.5
+Design database schema for new feature,4
+Profile and optimize slow query,3.5
+Create synthetic data generator,7
+Perform model evaluation and error analysis,6
+"Complete A Set Of Programming Problems Focused On Trees And Graphs. Implement Required Functions, Analyze Time Complexity, And Briefly Explain Your Design Choices In Comments Or A Short Write-Up.",7.0

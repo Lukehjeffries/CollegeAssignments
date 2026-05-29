@@ -1,0 +1,2 @@
+model,mae_test,cv_mean_neg_mae,cv_std
+best_grid_rf,5.884,-5.236,1.704
