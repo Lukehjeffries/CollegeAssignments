@@ -1,1 +1,0 @@
-This repository serves as a collection of coursework from my college studies, including completed assignments, projects, and lecture materials from courses I have finished. It will continue to grow throughout my final year as I add work from new classes and academic projects.
